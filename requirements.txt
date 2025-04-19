@@ -1,0 +1,6 @@
+streamlit==1.31.0 
+langchain==0.1.0 
+langchain_community==0.0.16 
+huggingface_hub==0.20.3 
+graphviz==0.20.1 
+python-dotenv==1.0.0
