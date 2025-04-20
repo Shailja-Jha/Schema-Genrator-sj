@@ -4,3 +4,7 @@ langchain_community==0.0.16
 huggingface_hub==0.20.3 
 graphviz==0.20.1 
 python-dotenv==1.0.0
+pymysql 
+mysql-connector-python 
+pymongo
+streamlit-mermaid
